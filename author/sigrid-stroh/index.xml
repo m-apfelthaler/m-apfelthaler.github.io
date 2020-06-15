@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sigrid Stroh | Nullius in verba</title>
+    <link>/author/sigrid-stroh/</link>
+      <atom:link href="/author/sigrid-stroh/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sigrid Stroh</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sat, 01 Jan 2005 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Sigrid Stroh</title>
+      <link>/author/sigrid-stroh/</link>
+    </image>
+    
+    <item>
+      <title>Sie sind auch (nur) Menschen: Impressionen vom Kongress „Übersetzen und Dolmetschen als soziale Praxis“ in Graz</title>
+      <link>/publication/apfelthaler-2005/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/apfelthaler-2005/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

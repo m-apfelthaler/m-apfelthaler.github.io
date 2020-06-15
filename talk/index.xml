@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Selected talks and posters | Nullius in verba</title>
+    <link>/talk/</link>
+      <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Selected talks and posters</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 02 Dec 2016 12:45:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Selected talks and posters</title>
+      <link>/talk/</link>
+    </image>
+    
+    <item>
+      <title>Are Perspective-Taking Abilities Part of Translation Expertise? A Mixed-Methods Study of Target Audience Orientation in Professional Translators</title>
+      <link>/talk/are_perspective-taking_abilities_part_of_translation_expertise/</link>
+      <pubDate>Fri, 02 Dec 2016 12:45:00 +0000</pubDate>
+      <guid>/talk/are_perspective-taking_abilities_part_of_translation_expertise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Target audience orientation during translation: multivariate modeling or exploratory analysis?</title>
+      <link>/talk/explorative_datenanalyse_oder_modellbildung/</link>
+      <pubDate>Thu, 10 Nov 2016 12:45:00 +0000</pubDate>
+      <guid>/talk/explorative_datenanalyse_oder_modellbildung/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Tale of Two Empathies: Their Relation to Other Process-Relevant Cognitive and Affective Factors in Translation, Their Role in Target Audience Orientation</title>
+      <link>/talk/a_tale_of_two_empathies/</link>
+      <pubDate>Fri, 06 Dec 2013 12:45:00 +0000</pubDate>
+      <guid>/talk/a_tale_of_two_empathies/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
