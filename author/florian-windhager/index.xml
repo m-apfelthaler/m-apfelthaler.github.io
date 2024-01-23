@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Florian Windhager | Nullius in verba</title>
-    <link>/author/florian-windhager/</link>
-      <atom:link href="/author/florian-windhager/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://m-apfelthaler.github.io/author/florian-windhager/</link>
+      <atom:link href="https://m-apfelthaler.github.io/author/florian-windhager/index.xml" rel="self" type="application/rss+xml" />
     <description>Florian Windhager</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024</copyright><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://m-apfelthaler.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Florian Windhager</title>
-      <link>/author/florian-windhager/</link>
+      <link>https://m-apfelthaler.github.io/author/florian-windhager/</link>
     </image>
     
     <item>
       <title>A Dynamic Network Model of Translatorial Cognition and Action</title>
-      <link>/publication/risku-2013/</link>
+      <link>https://m-apfelthaler.github.io/publication/risku-2013/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/risku-2013/</guid>
+      <guid>https://m-apfelthaler.github.io/publication/risku-2013/</guid>
       <description></description>
     </item>
     

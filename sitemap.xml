@@ -1,280 +1,173 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>/courses/example/example1/</loc>
+    <loc>https://m-apfelthaler.github.io/courses/example/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/courses/example/</loc>
+  </url><url>
+    <loc>https://m-apfelthaler.github.io/courses/example/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/courses/example/example2/</loc>
+  </url><url>
+    <loc>https://m-apfelthaler.github.io/courses/example/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication-type/0/</loc>
-    <lastmod>2020-09-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
-    <lastmod>2020-09-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/apfelthaler-2018/</loc>
-    <lastmod>2020-09-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/gernot-hebenstreit/</loc>
-    <lastmod>2020-09-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/matthias-apfelthaler/</loc>
-    <lastmod>2020-09-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2020-09-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2020-09-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2020-09-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/apfelthaler-2020/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
+  </url><url>
+    <loc>https://m-apfelthaler.github.io/publication-type/0/</loc>
+    <lastmod>2024-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://m-apfelthaler.github.io/authors/</loc>
+    <lastmod>2024-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://m-apfelthaler.github.io/publication/apfelthaler-2024b/</loc>
+    <lastmod>2024-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://m-apfelthaler.github.io/author/gernot-hebenstreit/</loc>
+    <lastmod>2024-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://m-apfelthaler.github.io/author/matthias-apfelthaler/</loc>
+    <lastmod>2024-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://m-apfelthaler.github.io/</loc>
+    <lastmod>2024-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://m-apfelthaler.github.io/publication_types/</loc>
+    <lastmod>2024-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://m-apfelthaler.github.io/publication/</loc>
+    <lastmod>2024-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://m-apfelthaler.github.io/talk/evidence-and-open-science-practices-promoting-better-health-of-the-translation-and-interpreting-research-publication-ecosystem/index/</loc>
+    <lastmod>2021-09-15T12:45:00+00:00</lastmod>
+  </url><url>
+    <loc>https://m-apfelthaler.github.io/talk/</loc>
+    <lastmod>2021-09-15T12:45:00+00:00</lastmod>
+  </url><url>
+    <loc>https://m-apfelthaler.github.io/publication-type/6/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://m-apfelthaler.github.io/publication/apfelthaler-2021/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://m-apfelthaler.github.io/post/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/writing-technical-content/</loc>
+  </url><url>
+    <loc>https://m-apfelthaler.github.io/post/writing-technical-content/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/courses/</loc>
+  </url><url>
+    <loc>https://m-apfelthaler.github.io/courses/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/jupyter/</loc>
+  </url><url>
+    <loc>https://m-apfelthaler.github.io/post/jupyter/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/matthias-apfelthaler/</loc>
+  </url><url>
+    <loc>https://m-apfelthaler.github.io/author/matthias-apfelthaler/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/slides/</loc>
+  </url><url>
+    <loc>https://m-apfelthaler.github.io/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/slides/example/</loc>
+  </url><url>
+    <loc>https://m-apfelthaler.github.io/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication-type/6/</loc>
+  </url><url>
+    <loc>https://m-apfelthaler.github.io/publication/apfelthaler-2019/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/apfelthaler-2019/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/privacy/</loc>
+  </url><url>
+    <loc>https://m-apfelthaler.github.io/privacy/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/are_perspective-taking_abilities_part_of_translation_expertise/</loc>
+  </url><url>
+    <loc>https://m-apfelthaler.github.io/talk/are_perspective-taking_abilities_part_of_translation_expertise/</loc>
     <lastmod>2016-12-02T12:45:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/</loc>
-    <lastmod>2016-12-02T12:45:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/explorative_datenanalyse_oder_modellbildung/</loc>
-    <lastmod>2016-11-10T12:45:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/deep-learning/</loc>
+  </url><url>
+    <loc>https://m-apfelthaler.github.io/talk/explorative_datenanalyse_oder_modellbildung/</loc>
+    <lastmod>2016-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://m-apfelthaler.github.io/tag/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/demo/</loc>
+  </url><url>
+    <loc>https://m-apfelthaler.github.io/tag/demo/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/external-project/</loc>
+  </url><url>
+    <loc>https://m-apfelthaler.github.io/project/external-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/internal-project/</loc>
+  </url><url>
+    <loc>https://m-apfelthaler.github.io/project/internal-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/</loc>
+  </url><url>
+    <loc>https://m-apfelthaler.github.io/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
+  </url><url>
+    <loc>https://m-apfelthaler.github.io/tags/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/academic/</loc>
+  </url><url>
+    <loc>https://m-apfelthaler.github.io/tag/academic/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/getting-started/</loc>
+  </url><url>
+    <loc>https://m-apfelthaler.github.io/post/getting-started/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
+  </url><url>
+    <loc>https://m-apfelthaler.github.io/categories/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/category/demo/</loc>
+  </url><url>
+    <loc>https://m-apfelthaler.github.io/category/demo/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
+  </url><url>
+    <loc>https://m-apfelthaler.github.io/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/%E5%BC%80%E6%BA%90/</loc>
+  </url><url>
+    <loc>https://m-apfelthaler.github.io/tag/%E5%BC%80%E6%BA%90/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/category/%E6%95%99%E7%A8%8B/</loc>
+  </url><url>
+    <loc>https://m-apfelthaler.github.io/category/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/2015-07-23-r-rmarkdown/</loc>
+  </url><url>
+    <loc>https://m-apfelthaler.github.io/post/2015-07-23-r-rmarkdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/plot/</loc>
+  </url><url>
+    <loc>https://m-apfelthaler.github.io/tag/plot/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/category/r/</loc>
+  </url><url>
+    <loc>https://m-apfelthaler.github.io/category/r/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/r-markdown/</loc>
+  </url><url>
+    <loc>https://m-apfelthaler.github.io/tag/r-markdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/regression/</loc>
+  </url><url>
+    <loc>https://m-apfelthaler.github.io/tag/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication-type/2/</loc>
+  </url><url>
+    <loc>https://m-apfelthaler.github.io/publication-type/2/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/apfelthaler-2014/</loc>
+  </url><url>
+    <loc>https://m-apfelthaler.github.io/publication/apfelthaler-2014/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/a_tale_of_two_empathies/</loc>
+  </url><url>
+    <loc>https://m-apfelthaler.github.io/talk/a_tale_of_two_empathies/</loc>
     <lastmod>2013-12-06T12:45:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/risku-2013/</loc>
+  </url><url>
+    <loc>https://m-apfelthaler.github.io/publication/risku-2013/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/florian-windhager/</loc>
+  </url><url>
+    <loc>https://m-apfelthaler.github.io/author/florian-windhager/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/hanna-risku/</loc>
+  </url><url>
+    <loc>https://m-apfelthaler.github.io/author/hanna-risku/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/apfelthaler-2012/</loc>
+  </url><url>
+    <loc>https://m-apfelthaler.github.io/publication/apfelthaler-2012/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication-type/7/</loc>
+  </url><url>
+    <loc>https://m-apfelthaler.github.io/publication-type/7/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/apfelthaler-2008/</loc>
+  </url><url>
+    <loc>https://m-apfelthaler.github.io/publication/apfelthaler-2008/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/benjamin-schmid/</loc>
+  </url><url>
+    <loc>https://m-apfelthaler.github.io/author/benjamin-schmid/</loc>
+    <lastmod>2005-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://m-apfelthaler.github.io/publication/apfelthaler-2005/</loc>
+    <lastmod>2005-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://m-apfelthaler.github.io/author/sigrid-stroh/</loc>
     <lastmod>2005-01-01T00:00:00+00:00</lastmod>
   </url>
-  
-  <url>
-    <loc>/publication/apfelthaler-2005/</loc>
-    <lastmod>2005-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/sigrid-stroh/</loc>
-    <lastmod>2005-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
 </urlset>
