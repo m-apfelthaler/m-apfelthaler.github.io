@@ -63,10 +63,34 @@
     </item>
     
     <item>
+      <title>A Comprehensive Bibliography of Translation &amp; Interpreting Directionality: 2021–2023 Edition</title>
+      <link>https://m-apfelthaler.github.io/publication/apfelthaler-2024a/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://m-apfelthaler.github.io/publication/apfelthaler-2024a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Task Segment Framework to Study Keylogged Translation Processes</title>
+      <link>https://m-apfelthaler.github.io/publication/munoz-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://m-apfelthaler.github.io/publication/munoz-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spillover Effects in Task-Segment Switching: A Study of Translation Subtasks as Behavioral Categories Within the Task Segment Framework</title>
+      <link>https://m-apfelthaler.github.io/publication/munoz-2021/</link>
+      <pubDate>Fri, 19 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://m-apfelthaler.github.io/publication/munoz-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Evidence and open science practices: Promoting better health of the translation and interpreting research publication ecosystem</title>
-      <link>https://m-apfelthaler.github.io/talk/evidence-and-open-science-practices-promoting-better-health-of-the-translation-and-interpreting-research-publication-ecosystem/index/</link>
+      <link>https://m-apfelthaler.github.io/talk/evidence-and-open-science-practices-promoting-better-health-of-the-translation-and-interpreting-research-publication-ecosystem/</link>
       <pubDate>Wed, 15 Sep 2021 12:45:00 +0000</pubDate>
-      <guid>https://m-apfelthaler.github.io/talk/evidence-and-open-science-practices-promoting-better-health-of-the-translation-and-interpreting-research-publication-ecosystem/index/</guid>
+      <guid>https://m-apfelthaler.github.io/talk/evidence-and-open-science-practices-promoting-better-health-of-the-translation-and-interpreting-research-publication-ecosystem/</guid>
       <description></description>
     </item>
     
@@ -339,7 +363,7 @@ You found me!
       <description>&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
 Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;./index_1_0.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;png&#34; src=&#34;./index_1_0.png&#34;&gt;&lt;/p&gt;
 &lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;print(&amp;quot;Welcome to Academic!&amp;quot;)
 &lt;/code&gt;&lt;/pre&gt;
 &lt;pre&gt;&lt;code&gt;Welcome to Academic!
